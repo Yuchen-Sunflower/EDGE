@@ -10,6 +10,8 @@ This repository addresses the critical challenge of **multi-label Out-of-Distrib
 - 🔍 **OE Dataset Selection**: A simple yet effective strategy to identify informative OE datasets for improved generalization.
 - 🏆 **State-of-the-Art Performance**: Validated on multiple multi-label datasets with diverse OOD benchmarks.
 
+![Framework](overview.png) <!-- Add a diagram if available -->
+
 ---
 
 ## Key Features
